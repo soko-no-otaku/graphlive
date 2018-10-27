@@ -1,2 +1,2 @@
 # graphlive
-移転しました→ http://aqours-setlists.info/composers_graph
+移転しました→ https://aqours-setlists.info/composers_graph
